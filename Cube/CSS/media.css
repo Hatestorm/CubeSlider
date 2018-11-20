@@ -1,0 +1,13 @@
+@media (max-width: 1249px) {
+	.container .controls {
+		display: none;
+	}
+
+	.container {
+		perspective: 2500px;
+	}
+
+	.mobile_controls {
+		display: block;
+	}
+}
